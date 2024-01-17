@@ -1,4 +1,4 @@
-# Hi ¡Hola! 👋
+# Hi! ¡Hola! 👋
 
 I'm a cloud data scientist, geochemist, and educator.
 
