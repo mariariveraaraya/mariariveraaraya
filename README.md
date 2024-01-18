@@ -1,6 +1,6 @@
 # Hi! ¡Hola! 👋
 
-I'm a cloud data scientist, geochemist, and educator.
+I'm a cloud data scientist, geochemist, educator and Fulbrighter
 
 - 🔭 I’m currently working as a senior scientific data specialist, implementing and documenting cloud workflows for scientific analyses 
 - 🌱 I’m interested in building tools to modernise science workflows. I am also a reformed paleoenvironmental scientist and archaeologist
