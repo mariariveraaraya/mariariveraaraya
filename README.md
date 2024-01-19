@@ -11,7 +11,7 @@ I'm a cloud data scientist, geochemist, educator and Fulbrighter
 
 **Personal website**: https://mariarivera.netlify.app/
 
-Experience:
+**Experience:**
 
 - 2021 - Present: Senior Scientific Data Specialist, Department of Environment, Science and Innovation, Queensland Government, Australia
 - 2021: Research assistant, Indigenous Education and Research Centre, James Cook University, Australia
