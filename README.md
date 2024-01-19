@@ -11,3 +11,14 @@ I'm a cloud data scientist, geochemist, educator and Fulbrighter
 
 **Personal website**: https://mariarivera.netlify.app/
 
+Experience:
+
+- 2021 - Present: Senior Scientific Data Specialist, Department of Environment, Science and Innovation, Queensland Government, Australia
+- 2021: Research assistant, Indigenous Education and Research Centre, James Cook University, Australia
+- 2019 - 2021: Instructor and tutor, Master of Data Science, James Cook University, Australia
+- 2021 - 2022: Training instructor: Queensland Cyber Infrastructure Foundation, Australia
+- 2017 - 2021: PhD Researcher, James Cook University, Australia
+- 2018 - 2021: Indigenous Peer Assisted Learning Advisor, Indigenous Education and Research Centre, Australia
+- 2016: Team Lead and Consultant, NASA DEVELOP Program, Athens, Georgia, United States
+- 2015 - 2017: Researcher and Masters student, University of Georgia, United States
+- 2012 - 2014: Research assistant, School of Anthropology, Universidad de Costa Rica, Costa Rica
