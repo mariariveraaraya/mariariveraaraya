@@ -22,3 +22,5 @@ I'm a cloud data scientist, geochemist, educator and Fulbrighter
 - 2016: Team Lead and Consultant, NASA DEVELOP Program, Athens, Georgia, United States
 - 2015 - 2017: Researcher and Masters student, University of Georgia, United States
 - 2012 - 2014: Research assistant, School of Anthropology, Universidad de Costa Rica, Costa Rica
+
+![](https://komarev.com/ghpvc/?username=mariariveraaraya)
