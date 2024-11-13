@@ -23,6 +23,7 @@ I'm a cloud data specialist, geochemist, educator and Fulbrighter
 - 2015 - 2017: Researcher and Masters student, University of Georgia, United States
 - 2012 - 2014: Research assistant, School of Anthropology, Universidad de Costa Rica, Costa Rica
 
+<img src="https://files.science-data.qld.gov.au/flag.PNG" alt="Description" width="200">
 
-<img src="[https://example.com/image.png](https://files.science-data.qld.gov.au/flag.PNG)" alt="Description" width="200" height="100">
+
 
