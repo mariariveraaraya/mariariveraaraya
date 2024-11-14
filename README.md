@@ -24,6 +24,6 @@ I'm a cloud data specialist, geochemist, educator and Fulbrighter
 - 2012 - 2014: Research assistant, School of Anthropology, Universidad de Costa Rica, Costa Rica
 
 <img src="https://files.science-data.qld.gov.au/badges/etdl-badge.svg" width="100">
-<img src="https://files.science-data.qld.gov.au/badges/sbox-badge.svg" width="100">
+<img src="https://files.science-data.qld.gov.au/badges/soils-badge.svg" width="100">
 
 
