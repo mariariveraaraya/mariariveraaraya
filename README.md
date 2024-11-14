@@ -27,5 +27,3 @@ I'm a cloud data specialist, geochemist, educator and Fulbrighter
 <img src="https://files.science-data.qld.gov.au/badges/soils-badge.svg" width="100">
 
 
-
-
