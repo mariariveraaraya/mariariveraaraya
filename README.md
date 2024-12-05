@@ -7,14 +7,7 @@
   <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" style="height: 20px; margin-right: 10px;">
 </div>
 
-### Badge Descriptions
-
-- **Platform Badge**: Indicates the overall compliance status of the QESD Data Platform.
-- **ADF Badge**: Represents the compliance status of Azure Data Factory components.
-- **Databricks Badge**: Shows the compliance status of Databricks notebooks and workflows.
-- **Synapse Badge**: Reflects the compliance status of Synapse SQL and related components.
-
-
+Overall compliance status of the QESD Platform and main components with best practices, naming conventions, and organisational policies.
 
 I'm a cloud data specialist, geochemist, educator and Fulbrighter
 
