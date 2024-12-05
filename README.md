@@ -5,18 +5,8 @@
   <img src="https://files.science-data.qld.gov.au/badges/ADF-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/Databricks-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" style="height: 20px; margin-right: 10px;">
-</div>
+</div> * Overall compliance status of the QESD Platform and main components with best practices, naming conventions, and organisational policies.
 
-Overall compliance status of the QESD Platform and main components with best practices, naming conventions, and organisational policies.
-
-## Badge Descriptions
-
-| Badge | Description |
-|-------|-------------|
-| ![Platform Badge](https://files.science-data.qld.gov.au/badges/platform-badge.svg) | **Platform Badge**: Overall compliance status of the QESD Data Platform. |
-| ![ADF Badge](https://files.science-data.qld.gov.au/badges/ADF-badge.svg) | **ADF Badge**: Compliance status of Azure Data Factory components. |
-| ![Databricks Badge](https://files.science-data.qld.gov.au/badges/Databricks-badge.svg) | **Databricks Badge**: Compliance status of Databricks notebooks and workflows. |
-| ![Synapse Badge](https://files.science-data.qld.gov.au/badges/Synapse-badge.svg) | **Synapse Badge**: Compliance status of Synapse SQL and related components. |
 
 
 I'm a cloud data specialist, geochemist, educator and Fulbrighter
