@@ -1,6 +1,6 @@
 # Hi! ¡Hola! 👋
 
-## Platform compliance scores (overall and per component)
+### Platform compliance scores (overall and per component)
 <div style="display: flex; align-items: center;">
   <img src="https://files.science-data.qld.gov.au/badges/platform-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/ADF-badge.svg" style="height: 20px; margin-right: 10px;">
