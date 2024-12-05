@@ -1,5 +1,6 @@
 # Hi! ¡Hola! 👋
 
+## Platform compliance scores (overall and per component)
 <div style="display: flex; align-items: center;">
   <img src="https://files.science-data.qld.gov.au/badges/platform-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/ADF-badge.svg" style="height: 20px; margin-right: 10px;">
@@ -7,10 +8,7 @@
   <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" style="height: 20px; margin-right: 10px;">
 </div> 
 
-<div style="font-size: 0.5em;">
-  * Overall compliance status of the QESD Platform and main components with best practices, naming conventions, and organisational policies.
-</div>
-##
+
 I'm a cloud data specialist, geochemist, educator and Fulbrighter
 
 - 🔭 I’m currently working as a senior scientific data specialist, implementing and documenting cloud workflows for scientific analyses in the [Queensland Environmental Science Data (QESD) Platform](https://github.com/qg-qesd/platform)
