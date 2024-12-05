@@ -34,6 +34,14 @@
   <img src="https://files.science-data.qld.gov.au/badges/wqinv-badge.svg" style="height: 20px; margin-right: 10px;">
 </div>
 
+
+## Project compliance scores (overall and per component)
+
+![aurion Platform Badge](https://files.science-data.qld.gov.au/badges/aurion-badge.svg)
+![aurion ADF Badge](https://files.science-data.qld.gov.au/badges/aurion-ADF-badge.svg)
+![aurion Databricks Badge](https://files.science-data.qld.gov.au/badges/aurion-Databricks-badge.svg)
+![aurion Synapse Badge](https://files.science-data.qld.gov.au/badges/aurion-Synapse-badge.svg)
+
 I'm a cloud data specialist, geochemist, educator and Fulbrighter
 
 - 🔭 I’m currently working as a senior scientific data specialist, implementing and documenting cloud workflows for scientific analyses in the [Queensland Environmental Science Data (QESD) Platform](https://github.com/qg-qesd/platform)
