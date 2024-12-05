@@ -1,12 +1,11 @@
 # Hi! ¡Hola! 👋
 
 <div style="display: flex; align-items: center;">
-  <img src="https://files.science-data.qld.gov.au/badges/platform-badge.svg" width="100">
-  <img src="https://files.science-data.qld.gov.au/badges/ADF-badge.svg" width="100">
-  <img src="https://files.science-data.qld.gov.au/badges/Databricks-badge.svg" width="100">
-  <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" width="100">
+  <img src="https://files.science-data.qld.gov.au/badges/platform-badge.svg" style="height: 20px; margin-right: 10px;">
+  <img src="https://files.science-data.qld.gov.au/badges/ADF-badge.svg" style="height: 20px; margin-right: 10px;">
+  <img src="https://files.science-data.qld.gov.au/badges/Databricks-badge.svg" style="height: 20px; margin-right: 10px;">
+  <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" style="height: 20px; margin-right: 10px;">
 </div>
-
 I'm a cloud data specialist, geochemist, educator and Fulbrighter
 
 - 🔭 I’m currently working as a senior scientific data specialist, implementing and documenting cloud workflows for scientific analyses in the [Queensland Environmental Science Data (QESD) Platform](https://github.com/qg-qesd/platform)
