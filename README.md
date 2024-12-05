@@ -5,7 +5,12 @@
   <img src="https://files.science-data.qld.gov.au/badges/ADF-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/Databricks-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" style="height: 20px; margin-right: 10px;">
-</div> * Overall compliance status of the QESD Platform and main components with best practices, naming conventions, and organisational policies.
+</div> 
+
+<div style="font-size: 0.9em;">
+  * Overall compliance status of the QESD Platform and main components with best practices, naming conventions, and organisational policies.
+</div>
+
 
 
 
