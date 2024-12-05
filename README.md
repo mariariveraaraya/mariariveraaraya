@@ -7,7 +7,7 @@
   <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" style="height: 20px; margin-right: 10px;">
 </div> 
 
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.5em;">
   * Overall compliance status of the QESD Platform and main components with best practices, naming conventions, and organisational policies.
 </div>
 
