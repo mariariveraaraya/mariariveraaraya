@@ -8,9 +8,9 @@
   <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" style="height: 20px; margin-right: 10px;">
 </div> 
 
-Project: wqinv
+Project: aurion
 <div style="display: flex; align-items: center;">
-  <img src="https://files.science-data.qld.gov.au/badges/wqinv-badge.svg" alt="wqinv Badge" style="height: 20px; margin-right: 10px;">   
+  <img src="https://files.science-data.qld.gov.au/badges/aurion-badge.svg" alt="aurion Badge" style="height: 20px; margin-right: 10px;"> 
 </div>
 
 I'm a cloud data specialist, geochemist, educator and Fulbrighter
