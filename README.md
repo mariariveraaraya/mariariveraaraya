@@ -9,9 +9,6 @@
 </div> 
 
 <div style="display: flex; align-items: center;">
-  <img src="https://files.science-data.qld.gov.au/badges/.vscode-badge.svg" alt=".vscode Badge" style="height: 20px; margin-right: 10px;">
-</div>
-<div style="display: flex; align-items: center;">
   <img src="https://files.science-data.qld.gov.au/badges/aurion-badge.svg" alt="aurion Badge" style="height: 20px; margin-right: 10px;"> 
 </div>
 <div style="display: flex; align-items: center;">
