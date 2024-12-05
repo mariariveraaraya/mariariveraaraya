@@ -37,7 +37,7 @@
 
 ## Project compliance scores (overall and per component)
 
-![aurion Platform Badge](https://files.science-data.qld.gov.au/badges/aurion-badge.svg)
+![aurion Platform Badge](https://files.science-data.qld.gov.au/badges/qberd-badge.svg)
 ![aurion ADF Badge](https://files.science-data.qld.gov.au/badges/aurion-ADF-badge.svg)
 ![aurion Databricks Badge](https://files.science-data.qld.gov.au/badges/aurion-Databricks-badge.svg)
 ![aurion Synapse Badge](https://files.science-data.qld.gov.au/badges/aurion-Synapse-badge.svg)
