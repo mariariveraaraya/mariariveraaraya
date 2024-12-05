@@ -6,6 +6,16 @@
   <img src="https://files.science-data.qld.gov.au/badges/Databricks-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" style="height: 20px; margin-right: 10px;">
 </div>
+
+### Badge Descriptions
+
+- **Platform Badge**: Indicates the overall compliance status of the QESD Data Platform.
+- **ADF Badge**: Represents the compliance status of Azure Data Factory components.
+- **Databricks Badge**: Shows the compliance status of Databricks notebooks and workflows.
+- **Synapse Badge**: Reflects the compliance status of Synapse SQL and related components.
+
+
+
 I'm a cloud data specialist, geochemist, educator and Fulbrighter
 
 - 🔭 I’m currently working as a senior scientific data specialist, implementing and documenting cloud workflows for scientific analyses in the [Queensland Environmental Science Data (QESD) Platform](https://github.com/qg-qesd/platform)
