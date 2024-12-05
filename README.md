@@ -16,7 +16,6 @@
   <img src="https://files.science-data.qld.gov.au/badges/edms-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/etdl-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/gbrw-badge.svg" style="height: 20px; margin-right: 10px;">
-  <img src="https://files.science-data.qld.gov.au/badges/global-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/herbrecs-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/hpcct-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/luops-badge.svg" style="height: 20px; margin-right: 10px;">
@@ -29,7 +28,6 @@
   <img src="https://files.science-data.qld.gov.au/badges/seagrass-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/sharedsrvc-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/soils-badge.svg" style="height: 20px; margin-right: 10px;">
-  <img src="https://files.science-data.qld.gov.au/badges/template-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/vegm-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/wildnet-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/wqinv-badge.svg" style="height: 20px; margin-right: 10px;">
