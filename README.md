@@ -7,6 +7,7 @@
   <img src="https://files.science-data.qld.gov.au/badges/Databricks-badge.svg" style="height: 20px; margin-right: 10px;">
   <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" style="height: 20px; margin-right: 10px;">
 </div> 
+
 ### Project compliance scores
 <div style="display: flex; align-items: center;">
   <img src="https://files.science-data.qld.gov.au/badges/aurion-badge.svg" style="height: 20px; margin-right: 10px;">
