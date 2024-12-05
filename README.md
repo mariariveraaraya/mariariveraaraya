@@ -36,10 +36,11 @@
 
 ### Project compliance scores (overall and per component)
 
-![wqinv Platform Badge](https://files.science-data.qld.gov.au/badges/wqinv-badge.svg)
-![wqinv ADF Badge](https://files.science-data.qld.gov.au/badges/wqinv-ADF-badge.svg)
-![wqinv Databricks Badge](https://files.science-data.qld.gov.au/badges/wqinv-Databricks-badge.svg)
-![wqinv Synapse Badge](https://files.science-data.qld.gov.au/badges/wqinv-Synapse-badge.svg)
+![barriers Platform Badge](https://files.science-data.qld.gov.au/badges/barriers-badge.svg)
+![barriers ADF Badge](https://files.science-data.qld.gov.au/badges/barriers-ADF-badge.svg)
+![barriers Databricks Badge](https://files.science-data.qld.gov.au/badges/barriers-Databricks-badge.svg)
+![barriers Synapse Badge](https://files.science-data.qld.gov.au/badges/barriers-Synapse-badge.svg)
+
 I'm a cloud data specialist, geochemist, educator and Fulbrighter
 
 - 🔭 I’m currently working as a senior scientific data specialist, implementing and documenting cloud workflows for scientific analyses in the [Queensland Environmental Science Data (QESD) Platform](https://github.com/qg-qesd/platform)
