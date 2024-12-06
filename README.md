@@ -41,6 +41,23 @@
 ![barriers Databricks Badge](https://files.science-data.qld.gov.au/badges/barriers-Databricks-badge.svg)
 ![barriers Synapse Badge](https://files.science-data.qld.gov.au/badges/barriers-Synapse-badge.svg)
 
+# QESD Data Platform
+
+### Platform compliance scores (overall and per component)
+<div style="display: flex; align-items: center;">
+  <img src="https://files.science-data.qld.gov.au/badges/platform-badge.svg" style="height: 20px; margin-right: 10px;">
+  <img src="https://files.science-data.qld.gov.au/badges/ADF-badge.svg" style="height: 20px; margin-right: 10px;">
+  <img src="https://files.science-data.qld.gov.au/badges/Databricks-badge.svg" style="height: 20px; margin-right: 10px;">
+  <img src="https://files.science-data.qld.gov.au/badges/Synapse-badge.svg" style="height: 20px; margin-right: 10px;">
+</div> 
+
+<br>
+
+Visit the dashboard in [DES-ST-QESD](https://app.powerbi.com/groups/f0bef704-a620-4fa5-bdf8-0cf0bdc85f57?experience=power-bi) for detailed information about this audit.
+
+Onboarding documents including ways of working can be found in the following sharepoint site
+
+
 I'm a cloud data specialist, geochemist, educator and Fulbrighter
 
 - 🔭 I’m currently working as a senior scientific data specialist, implementing and documenting cloud workflows for scientific analyses in the [Queensland Environmental Science Data (QESD) Platform](https://github.com/qg-qesd/platform)
