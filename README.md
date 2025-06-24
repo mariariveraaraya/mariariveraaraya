@@ -13,7 +13,8 @@ I'm a scientific data engineeer, cloud data specialist, geochemist, educator and
 
 **Experience:**
 
-- 2021 - Present: Senior Scientific Data Specialist, Department of Environment, Science and Innovation, Queensland Government, Australia
+- 2024 - Present: Scientific Data Engineer, Department of Environment, Science and Innovation, Queensland Government, Australia  
+- 2021 - 2024: Senior Scientific Data Specialist, Department of Environment, Science and Innovation, Queensland Government, Australia
 - 2021: Research assistant, Indigenous Education and Research Centre, James Cook University, Australia
 - 2019 - 2021: Instructor and tutor, Master of Data Science, James Cook University, Australia
 - 2021 - 2022: Training instructor, Queensland Cyber Infrastructure Foundation, Australia
